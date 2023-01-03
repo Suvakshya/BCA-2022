@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    color:white;
+    background: black;
+    width: 100%;
+    height: 10%;
+    position: fixed;
+    top: 0%;
+    
+}
+.BBC{
+    margin-left: 4%;
+    ;
+}
+.headerBBC{
+    width:25px;
+    background-color: white;
+    color: black;
+    padding: 3px;
+    margin: 2px;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    float: left;  
+    margin-top: 1%;
+    margin-left: 5px;
+    left: 1%; 
+}
+.button{
+    color: white;
+    margin: 0%;
+    background: black;
+    font-size: large;
+    margin-left: 5%;
+    margin-top: 1.5%;
+    border: none;
+        
+}
+.button i{
+    width: 0px;
+    margin-right: 0px;
+}
+.menu{
+    display: flex;
+    position: fixed;
+    left: 28%;
+    background-color: rgb(0, 0, 0);
+    top: 3%; 
+}
+
+.menu li{
+    font-size: medium;
+    list-style: none;
+    margin-left: 10%;
+}
+.menu li a{ text-decoration: none;
+    color: aliceblue;  
+}
+.header{
+    position: fixed;
+    float: left;
+    color: white;
+    margin: 0px 40px;   
+}
+.searchbbc{
+    width: 15vw;
+    height: 5vh;
+    color: antiquewhite;
+    background: rgb(84, 80, 80);
+    border: none;
+    position: fixed;
+    left: 70%;
+    
+}
+
+main{
+    background:rgb(237, 232, 222);
+    width: 100%;
+    height:85%;
+    position : fixed;
+    position: absolute;
+    top: 10%;
+    bottom: 10%;
+    }
+    .class0{
+        margin-top: 20px;
+        margin-left: 3%;
+        font-size: x-large;
+        font-weight: bold;
+        color: black;
+    }
+    .class1{
+        background-image: url(./image/Interactive-cover-image.webp);
+        background-size: 100% 100%;
+        
+        width: 42%;
+        height: 70%;
+        position: fixed;
+        margin-top: 4px;
+        margin-left: 39px;
+        /* background-image: ; */
+    }
+    .class2{
+        background-image: url(./image/un0573750.jpg);
+        background-size: 100% 100%;
+        position: fixed;
+        margin-top: 4px;
+        left: 46%;
+        width: 25%;
+        height: 34%;
+        text-align: center ;
+        text-align: left;
+        font-weight: bold;
+        font-size: x-large;
+        color: rgb(107, 100, 100);
+        
+    }
+    .class3{
+        background-image: url(./image/7ebf2de125ffecbc451443fae91a0e0010d188bf8a40bda94bdb046d6359a213.webp);
+        background-size: 100% 100%;
+        position: fixed;
+        margin-top: 4px;
+        left: 72%;
+        width: 25%;
+        height: 34%;
+        text-align: center;
+        text-align: left;
+        font-weight: bold;
+        font-size: x-large;
+        color:rgb(107, 100, 100);
+    }
+    .class4{
+        background-image: url(./image/Everything-You-Need-To-Know-About-The-Upcoming-Tesla-Pi-Phone.jpg);
+        background-size: 100% 100%;
+        position: fixed;
+        margin-top: 17%;
+        left: 46%;
+        width: 25%;
+        height: 34%;
+    }
+        .class5 {
+        background-image: url(./image/burger-fast-food-concept-hand-drawn-sketch-vector-illustration_91128-1533.webp);
+        background-size: 100% 100%;
+        position: fixed;
+        margin-top: 17%;
+        left: 72%;
+        width: 25%;
+        height: 34%;
+        }
+
+footer{
+    background: rgb(61, 50, 50);
+    color: aquamarine;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    height: 5%;
+    
+}
+d

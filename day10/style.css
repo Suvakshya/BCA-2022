@@ -1,0 +1,46 @@
+body{
+    margin:0;
+    padding:0;
+}
+header{
+width:80%;
+height:100px;
+background-color: burlywood;
+color:black;
+position: absolute;
+left:20%;
+
+}
+aside{
+    width:20%;
+    height:700px;
+    background-color: blueviolet;
+    color:black;
+    /* position:fixed; */
+}
+main{
+    width:80%;
+     min-height:80%;
+    background-color: aqua;
+    color:black;
+    position:absolute ;
+    top:100px;
+    left:20%;
+    
+    
+    
+}
+footer{
+    width: 80%;
+    height: 100px;
+    position:fixed;
+    background-color: blue;
+    left:20%;
+    bottom: 0;
+    
+    
+    
+
+    
+
+}
